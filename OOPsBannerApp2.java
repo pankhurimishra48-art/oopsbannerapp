@@ -1,5 +1,13 @@
-public class OOPsBannerApp2{
-public static void main(string[] args){
-system.out.println9("welcome");
-}
+public class PrintOOPSBannerjoin {
+    public static void main(String[] args) {
+
+        System.out.println(String.join(" ", "   ***   ", "   ***   ", " ******  ", "  *****  "));
+        System.out.println(String.join(" ", " **   ** ", " **   ** ", " **    ** ", " **    ** "));
+        System.out.println(String.join(" ", "**     **", "**     **", " **     **", "**       "));
+        System.out.println(String.join(" ", "**     **", "**     **", " **    ** ", "  ****   "));
+        System.out.println(String.join(" ", "**     **", "**     **", " ******   ", "      ** "));
+        System.out.println(String.join(" ", " **   ** ", " **   ** ", " **       ", "**     **"));
+        System.out.println(String.join(" ", "   ***   ", "   ***   ", " **       ", "  *****  "));
+        
+    }
 }
